@@ -1,0 +1,11 @@
+Instructions
+Run Login.java in AdminDashboard package
+
+Username for patient is "patient"
+Password for patient is "1234"
+
+Username for admin is "admin"
+Password for admin is "1234"
+
+ Username for doctor is "doctor"
+Password for doctor is "1234"

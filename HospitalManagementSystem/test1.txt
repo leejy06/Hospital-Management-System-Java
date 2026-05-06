@@ -1,0 +1,2 @@
+P001,John Doe,Male,Flu,Kuala Lumpur,RoleX
+P002,Aisha Lim,Female,Dengue,Penang,RoleY
